@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://127.0.0.1:9001"  # change when deployed
+BASE_URL = "https://backend8-n08e.onrender.com"  # change when deployed
 
 
 def upload_and_extract(lecture_file, pastpaper_file, level):
